@@ -15,6 +15,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [ChatGPT 使用途径](#chatgpt-使用途径)
   - [与 ChatGPT 高效对话？——Prompt工程指南](#与-chatgpt-高效对话prompt工程指南)
+  - [OpenAI GPTs 指南](#openai-gpts-指南)
   - [ChatGPT 顶级爆款开源项目(10K+ Stars)](#chatgpt-顶级爆款开源项目10k-stars)
   - [ChatGPT 应用](#chatgpt-应用)
   - [ChatGPT 插件](#chatgpt-插件)
@@ -22,6 +23,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
   - [LLMs: 大模型](#llms-大模型)
   - [AGI：通用人工智能之路](#agi通用人工智能之路)
   - [AI 生产力工具](#ai-生产力工具)
+  - [AI 搞钱](#ai-搞钱)
   - [思考](#思考)
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [Star History](#star-history)
@@ -36,6 +38,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ## [ChatGPT 使用途径](docs/ChatGPT_access.md)
 ## [与 ChatGPT 高效对话？——Prompt工程指南](docs/ChatGPT_prompts.md)
+## [OpenAI GPTs 指南](https://github.com/EmbraceAGI/Awesome-AI-GPTs)
 ## [ChatGPT 顶级爆款开源项目(10K+ Stars)](docs/ChatGPT_Top_Project.md)
 ## [ChatGPT 应用](docs/ChatGPT_tools.md)
 ## [ChatGPT 插件](docs/ChatGPT_plugins.md)
@@ -43,6 +46,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ## [LLMs: 大模型](docs/LLMs.md)
 ## [AGI：通用人工智能之路](docs/AGI.md)
 ## [AI 生产力工具](docs/AI_tools.md)
+## [AI 搞钱](docs/AI_money.md)
 ## [思考](docs/thinking.md)
 
 

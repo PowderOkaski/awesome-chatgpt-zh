@@ -16,15 +16,16 @@
 
 (推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
 * 需要科学上网，使用的代理 IP 质量不好的话无法成功
-* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
+* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决
 * 国内注册教程及各种问题解决: https://ssw9noe1h6.feishu.cn/wiki/wikcnEeq5F16jdZo7KjmUa1Lh3g
 
 #### Plus 开通教程
 
-有以下三种方法：
-* [ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新）](https://juejin.cn/post/7238423148555812925)
+有以下几种方法：
+* [bewildcard 一站式服务](https://bewildcard.com/i/AIGPT) 这个网站可以开张虚拟信用卡，送3次英国手机号验证码，可以用来注册账号，送3次远程操作，可以绑openai的api和升级plus，一次性解决openai所有问题，使用邀请码 `AIGPT` 有优惠
+* [ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新）](https://juejin.cn/post/7238423148555812925)，或者参考这个 [ChatGPT APP Plus升级全记录：购买礼品卡、兑换和处理失败](https://zhuanlan.zhihu.com/p/631923304)
 * [nobepay 开卡：](https://zhuanlan.zhihu.com/p/619289623), 【[nobepay 官网](https://www.nobepay.com/)】，【[防止失效备份教程](imgs/nobepay_chatgpt.png)】 技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
-* 找有美国卡的朋友代充 或者 [美国代充](https://7t82qtu91d3.typeform.com/to/ZWwsiJDc)
+* 找有美国卡的朋友代充 
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
 
@@ -150,13 +151,25 @@ Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制Chat
 
 ### 💻 国产 ChatGPT 类似产品
 <ul>
+<ul>
+<li>
+<details>
+  <summary>💻 智谱清言</summary>
+> https://chatglm.cn
+
+智谱清言，长文输出和对话能力体验较好
+
+![wenxin](imgs/zhipu.png)
+
+</details>
+</li>
 <li>
 <details>
   <summary>💻 文心一言</summary>
 
 > https://yiyan.baidu.com/welcome
 
-百度出品，可申请使用
+百度出品，已开放使用
 
 ![wenxin](imgs/wenxin.jpg)
 
@@ -169,7 +182,7 @@ Inflection AI 公司推出的聊天机器人Pi，富有情感的个人定制Chat
 
 > https://xinghuo.xfyun.cn/
 
-讯飞出品，中文体验不错，申请简单方便，可申请使用
+讯飞出品，中文体验不错，已开放使用
 
 ![xunfeixi](imgs/chat_xunfeixinhuo.jpg)
 
